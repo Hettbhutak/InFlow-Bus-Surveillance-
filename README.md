@@ -101,7 +101,16 @@ npm run test
 
 ## 📱 Screenshots
 
-[Add screenshots of your application here]
+![image](https://github.com/user-attachments/assets/62fc2994-ee58-42d2-9437-0a4e19e29df3)
+![image](https://github.com/user-attachments/assets/fbc482b1-90df-44e5-92f7-b27e0510e177)
+![image](https://github.com/user-attachments/assets/8bd73acf-0390-4786-a806-dc657ee344f3)
+![image](https://github.com/user-attachments/assets/2db19ac4-4021-4499-9f25-100c799d56dd)
+![image](https://github.com/user-attachments/assets/3f03abd3-2a8a-47d0-b0bb-7b962be63f63)
+![image](https://github.com/user-attachments/assets/ae0297df-c4da-4130-86e7-cd625f484e25)
+![image](https://github.com/user-attachments/assets/c1186caa-5eda-42a8-b5d6-ca9bbbcbaa11)
+
+
+
 
 ## 🔐 Security
 
