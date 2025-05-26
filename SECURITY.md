@@ -123,10 +123,8 @@ All security-related documentation is maintained in:
 ## 📞 Contact
 
 Security Team:
-- Email: security@yourproject.com
-- PGP Key: [Link to PGP key]
-- Emergency Contact: [Emergency number]
+- Email: hetbhutak@gmail.com
 
 ---
 
-Last updated: [Current Date]
+Last updated: [26/05/2025]
