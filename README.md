@@ -126,8 +126,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- [Het Bhutak] - Project Lead, Backend Developer
-- [Jamila kapadia] - UI/UX Designer, Frontend Developer
+- [Het Bhutak] - Project Lead, Frontend Developer, Backend Developer
+- [Jamila kapadia] - UI/UX Designer, Documentation 
 
 ## 📞 Support
 
