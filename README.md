@@ -126,14 +126,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- [Team Member 1] - Project Lead
-- [Team Member 2] - Frontend Developer
-- [Team Member 3] - Backend Developer
-- [Team Member 4] - UI/UX Designer
+- [Het Bhutak] - Project Lead, Backend Developer
+- [Jamila kapadia] - UI/UX Designer, Frontend Developer
 
 ## 📞 Support
 
-For support, please email [your-email@domain.com] or open an issue in the repository.
+For support, please email [hetbhutak@gmail.com] or open an issue in the repository.
 
 ## 🙏 Acknowledgments
 
@@ -143,4 +141,4 @@ For support, please email [your-email@domain.com] or open an issue in the reposi
 
 ---
 
-Made with ❤️ by [Your Team Name]
+Made with ❤️ by Het Bhutak & Jamila Kapadia
